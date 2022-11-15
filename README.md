@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frontend Development
 - 💞️ My goal is to reach Full Stack Development
-- 📫 You can reach me via Rusta555@lis.ru
+- 📫 You can reach me via Rusta555@list.ru
 -  
 
 <!---
