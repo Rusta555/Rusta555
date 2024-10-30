@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rustam Jafarov
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ My goal is to reach Full Stack Development
-- 📫 You can reach me via Rusta555@list.ru
+- 👀 I’m interested in QA manual testing
+- 🌱 I’m currently learning Manual testing
+- 💞️ My goal is to reach ... its secret!!!
+- 📫 You can reach me via Astrustem1988@gmail.com
 -  
 
 <!---
